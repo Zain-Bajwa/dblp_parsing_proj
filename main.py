@@ -15,7 +15,7 @@ month = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August
 mydb = mysql.connector.connect(
     host="localhost",
     user="root",
-    passwd='Usama1234',
+    passwd='root',
     database="dblp"
 )
 
